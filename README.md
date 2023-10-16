@@ -1,2 +1,2 @@
 # Pcaps
-Pcaps of Vendor issues.
+Pcaps for identifying Vendor issues.
